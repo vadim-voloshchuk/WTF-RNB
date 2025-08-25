@@ -1,0 +1,309 @@
+Output Log for Training Results
+Total Iterations: 2500000
+--------------------------------------------------
+Iteration: 0
+  Mean Reward: -0.11
+  Total Victories: 232
+  Total Defeats: 50
+  Time Taken for Iteration: 5.79 seconds
+--------------------------------------------------
+Iteration: 50000
+  Mean Reward: 5.35
+  Total Victories: 473
+  Total Defeats: 104
+  Time Taken for Iteration: 9.19 seconds
+--------------------------------------------------
+Iteration: 100000
+  Mean Reward: 5.85
+  Total Victories: 805
+  Total Defeats: 160
+  Time Taken for Iteration: 5.68 seconds
+--------------------------------------------------
+Iteration: 150000
+  Mean Reward: 5.88
+  Total Victories: 1233
+  Total Defeats: 240
+  Time Taken for Iteration: 8.78 seconds
+--------------------------------------------------
+Iteration: 200000
+  Mean Reward: 6.15
+  Total Victories: 1584
+  Total Defeats: 309
+  Time Taken for Iteration: 6.57 seconds
+--------------------------------------------------
+Iteration: 250000
+  Mean Reward: 6.30
+  Total Victories: 1824
+  Total Defeats: 370
+  Time Taken for Iteration: 9.06 seconds
+--------------------------------------------------
+Iteration: 300000
+  Mean Reward: 6.25
+  Total Victories: 2248
+  Total Defeats: 429
+  Time Taken for Iteration: 6.64 seconds
+--------------------------------------------------
+Iteration: 350000
+  Mean Reward: 6.28
+  Total Victories: 2590
+  Total Defeats: 485
+  Time Taken for Iteration: 5.77 seconds
+--------------------------------------------------
+Iteration: 400000
+  Mean Reward: 6.54
+  Total Victories: 2879
+  Total Defeats: 545
+  Time Taken for Iteration: 9.69 seconds
+--------------------------------------------------
+Iteration: 450000
+  Mean Reward: 6.61
+  Total Victories: 3202
+  Total Defeats: 612
+  Time Taken for Iteration: 8.16 seconds
+--------------------------------------------------
+Iteration: 500000
+  Mean Reward: 6.55
+  Total Victories: 3508
+  Total Defeats: 691
+  Time Taken for Iteration: 5.25 seconds
+--------------------------------------------------
+Iteration: 550000
+  Mean Reward: 6.45
+  Total Victories: 3976
+  Total Defeats: 742
+  Time Taken for Iteration: 7.19 seconds
+--------------------------------------------------
+Iteration: 600000
+  Mean Reward: 6.60
+  Total Victories: 4352
+  Total Defeats: 805
+  Time Taken for Iteration: 5.36 seconds
+--------------------------------------------------
+Iteration: 650000
+  Mean Reward: 6.69
+  Total Victories: 4600
+  Total Defeats: 884
+  Time Taken for Iteration: 7.07 seconds
+--------------------------------------------------
+Iteration: 700000
+  Mean Reward: 6.67
+  Total Victories: 4886
+  Total Defeats: 980
+  Time Taken for Iteration: 5.97 seconds
+--------------------------------------------------
+Iteration: 750000
+  Mean Reward: 6.84
+  Total Victories: 5331
+  Total Defeats: 1030
+  Time Taken for Iteration: 5.39 seconds
+--------------------------------------------------
+Iteration: 800000
+  Mean Reward: 6.77
+  Total Victories: 5796
+  Total Defeats: 1119
+  Time Taken for Iteration: 8.99 seconds
+--------------------------------------------------
+Iteration: 850000
+  Mean Reward: 7.05
+  Total Victories: 6178
+  Total Defeats: 1175
+  Time Taken for Iteration: 5.34 seconds
+--------------------------------------------------
+Iteration: 900000
+  Mean Reward: 6.96
+  Total Victories: 6650
+  Total Defeats: 1268
+  Time Taken for Iteration: 7.01 seconds
+--------------------------------------------------
+Iteration: 950000
+  Mean Reward: 6.95
+  Total Victories: 6915
+  Total Defeats: 1348
+  Time Taken for Iteration: 5.37 seconds
+--------------------------------------------------
+Iteration: 1000000
+  Mean Reward: 6.93
+  Total Victories: 7259
+  Total Defeats: 1440
+  Time Taken for Iteration: 5.12 seconds
+--------------------------------------------------
+Iteration: 1050000
+  Mean Reward: 6.88
+  Total Victories: 7615
+  Total Defeats: 1538
+  Time Taken for Iteration: 8.01 seconds
+--------------------------------------------------
+Iteration: 1100000
+  Mean Reward: 6.99
+  Total Victories: 7879
+  Total Defeats: 1606
+  Time Taken for Iteration: 9.07 seconds
+--------------------------------------------------
+Iteration: 1150000
+  Mean Reward: 6.96
+  Total Victories: 8358
+  Total Defeats: 1678
+  Time Taken for Iteration: 5.07 seconds
+--------------------------------------------------
+Iteration: 1200000
+  Mean Reward: 6.92
+  Total Victories: 8679
+  Total Defeats: 1776
+  Time Taken for Iteration: 6.90 seconds
+--------------------------------------------------
+Iteration: 1250000
+  Mean Reward: 6.92
+  Total Victories: 8884
+  Total Defeats: 1869
+  Time Taken for Iteration: 9.16 seconds
+--------------------------------------------------
+Iteration: 1300000
+  Mean Reward: 7.01
+  Total Victories: 9264
+  Total Defeats: 1952
+  Time Taken for Iteration: 9.13 seconds
+--------------------------------------------------
+Iteration: 1350000
+  Mean Reward: 7.18
+  Total Victories: 9567
+  Total Defeats: 2051
+  Time Taken for Iteration: 7.75 seconds
+--------------------------------------------------
+Iteration: 1400000
+  Mean Reward: 7.05
+  Total Victories: 9813
+  Total Defeats: 2142
+  Time Taken for Iteration: 9.05 seconds
+--------------------------------------------------
+Iteration: 1450000
+  Mean Reward: 7.10
+  Total Victories: 10308
+  Total Defeats: 2204
+  Time Taken for Iteration: 9.53 seconds
+--------------------------------------------------
+Iteration: 1500000
+  Mean Reward: 7.24
+  Total Victories: 10806
+  Total Defeats: 2300
+  Time Taken for Iteration: 7.81 seconds
+--------------------------------------------------
+Iteration: 1550000
+  Mean Reward: 6.99
+  Total Victories: 11248
+  Total Defeats: 2380
+  Time Taken for Iteration: 7.88 seconds
+--------------------------------------------------
+Iteration: 1600000
+  Mean Reward: 7.15
+  Total Victories: 11664
+  Total Defeats: 2442
+  Time Taken for Iteration: 9.89 seconds
+--------------------------------------------------
+Iteration: 1650000
+  Mean Reward: 6.97
+  Total Victories: 12019
+  Total Defeats: 2532
+  Time Taken for Iteration: 9.80 seconds
+--------------------------------------------------
+Iteration: 1700000
+  Mean Reward: 7.21
+  Total Victories: 12502
+  Total Defeats: 2593
+  Time Taken for Iteration: 7.51 seconds
+--------------------------------------------------
+Iteration: 1750000
+  Mean Reward: 7.26
+  Total Victories: 12809
+  Total Defeats: 2656
+  Time Taken for Iteration: 7.29 seconds
+--------------------------------------------------
+Iteration: 1800000
+  Mean Reward: 7.24
+  Total Victories: 13107
+  Total Defeats: 2708
+  Time Taken for Iteration: 6.80 seconds
+--------------------------------------------------
+Iteration: 1850000
+  Mean Reward: 7.32
+  Total Victories: 13580
+  Total Defeats: 2780
+  Time Taken for Iteration: 5.59 seconds
+--------------------------------------------------
+Iteration: 1900000
+  Mean Reward: 7.31
+  Total Victories: 13821
+  Total Defeats: 2865
+  Time Taken for Iteration: 6.28 seconds
+--------------------------------------------------
+Iteration: 1950000
+  Mean Reward: 7.25
+  Total Victories: 14043
+  Total Defeats: 2959
+  Time Taken for Iteration: 6.99 seconds
+--------------------------------------------------
+Iteration: 2000000
+  Mean Reward: 7.25
+  Total Victories: 14469
+  Total Defeats: 3031
+  Time Taken for Iteration: 8.97 seconds
+--------------------------------------------------
+Iteration: 2050000
+  Mean Reward: 7.28
+  Total Victories: 14933
+  Total Defeats: 3085
+  Time Taken for Iteration: 7.32 seconds
+--------------------------------------------------
+Iteration: 2100000
+  Mean Reward: 7.27
+  Total Victories: 15165
+  Total Defeats: 3166
+  Time Taken for Iteration: 9.81 seconds
+--------------------------------------------------
+Iteration: 2150000
+  Mean Reward: 7.24
+  Total Victories: 15641
+  Total Defeats: 3217
+  Time Taken for Iteration: 5.48 seconds
+--------------------------------------------------
+Iteration: 2200000
+  Mean Reward: 7.29
+  Total Victories: 15888
+  Total Defeats: 3296
+  Time Taken for Iteration: 6.22 seconds
+--------------------------------------------------
+Iteration: 2250000
+  Mean Reward: 7.28
+  Total Victories: 16327
+  Total Defeats: 3372
+  Time Taken for Iteration: 9.40 seconds
+--------------------------------------------------
+Iteration: 2300000
+  Mean Reward: 7.38
+  Total Victories: 16676
+  Total Defeats: 3431
+  Time Taken for Iteration: 9.09 seconds
+--------------------------------------------------
+Iteration: 2350000
+  Mean Reward: 7.33
+  Total Victories: 17169
+  Total Defeats: 3500
+  Time Taken for Iteration: 6.01 seconds
+--------------------------------------------------
+Iteration: 2400000
+  Mean Reward: 7.26
+  Total Victories: 17509
+  Total Defeats: 3581
+  Time Taken for Iteration: 9.32 seconds
+--------------------------------------------------
+Iteration: 2450000
+  Mean Reward: 7.35
+  Total Victories: 17956
+  Total Defeats: 3678
+  Time Taken for Iteration: 5.83 seconds
+--------------------------------------------------
+Iteration: 2500000
+  Mean Reward: 7.35
+  Total Victories: 18161
+  Total Defeats: 3760
+  Time Taken for Iteration: 8.01 seconds
+--------------------------------------------------

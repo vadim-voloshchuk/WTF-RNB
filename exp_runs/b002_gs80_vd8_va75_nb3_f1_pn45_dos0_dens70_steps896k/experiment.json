@@ -1,0 +1,29 @@
+{
+  "name": "b002_gs80_vd8_va75_nb3_f1_pn45_dos0_dens70_steps896k",
+  "env_kwargs": {
+    "grid_size": 80,
+    "view_distance": 8,
+    "view_angle": 75,
+    "max_steps": 2000,
+    "num_blue": 3,
+    "blue_flee_on_seen": true,
+    "patrol_noise": 45.0,
+    "dynamic_obstacles_steps": 0,
+    "obstacles_density": 0.7,
+    "use_helpers": true,
+    "num_helpers": 2,
+    "use_last_seen": false,
+    "use_obstacle_memory": true,
+    "use_detection_timer": true,
+    "reward_weights": {
+      "proximity": 0.5,
+      "step_penalty": -0.02
+    }
+  },
+  "train_timesteps": 896111,
+  "n_envs": 8,
+  "n_steps": 128,
+  "n_epochs": 6,
+  "batch_size": 1024,
+  "device": "cuda"
+}

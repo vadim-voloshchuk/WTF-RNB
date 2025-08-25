@@ -1,0 +1,4 @@
+episode,reward,is_win,is_loss,steps
+0,-101.365,False,True,91
+1,-128.0800000000007,False,True,1872
+2,93.95093750000005,True,False,467

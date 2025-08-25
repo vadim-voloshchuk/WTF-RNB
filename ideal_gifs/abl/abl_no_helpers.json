@@ -1,0 +1,27 @@
+{
+  "scenario": "abl_no_helpers",
+  "kwargs": {
+    "grid_size": 64,
+    "view_distance": 8,
+    "view_angle": 90,
+    "max_steps": 2000,
+    "num_blue": 1,
+    "blue_flee_on_seen": true,
+    "patrol_noise": 15.0,
+    "dynamic_obstacles_steps": 0,
+    "obstacles_density": 0.3,
+    "use_helpers": false,
+    "num_helpers": 0,
+    "use_last_seen": true,
+    "use_obstacle_memory": true,
+    "use_detection_timer": true
+  },
+  "steps": 239,
+  "terminated": true,
+  "truncated": false,
+  "final_info": {
+    "is_win": true,
+    "is_loss": true,
+    "episode_length": 239
+  }
+}
